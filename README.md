@@ -4,7 +4,7 @@ A simple parallex website made using HTML + CSS + JavaScript.As you scroll down 
 
 All the images used in this website are not mine and are downloaded and used from internet. The image credits goes to their respected owners.
 
-Hope You liked my project
+Hope You liked my project.
 
 Screenshots
 
